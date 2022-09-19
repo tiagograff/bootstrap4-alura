@@ -1,3 +1,13 @@
-.titulo {
-    color: blue;
+.imagem-carrossel-um{
+    object-fit: cover;
+    object-position: 0 80%; /*x y*/
+    height: 400px;
+}
+.imagem-carrossel-dois{
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
 }
